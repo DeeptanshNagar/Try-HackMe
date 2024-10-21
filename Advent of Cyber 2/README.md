@@ -9,18 +9,6 @@ Practice connecting to our network!
 
 `No answer needed`
 
-## Task 4 Subscribing
-
-The Advent of Cyber event is completely free! However check out some of the reasons to subscribe:
-
-![https://tryhackme.com/profile#subscribe](https://tryhackme.com/img/general/why-subscribe.png)
-
-If you want to gift a TryHackMe VIP subscription, you can [purchase vouchers](http://tryhackme.com/subscriptions).
-
-Read the above.
-
-`No answer needed`
-
 ## Task 5 The Story
 
 **[The Christmas Story]**
