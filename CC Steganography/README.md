@@ -431,7 +431,6 @@ b2,rgb,msb,xy       .. file: VISX image file
 b2,bgr,lsb,xy       .. file: SoftQuad DESC or font file binary
 b2,bgr,msb,xy       .. file: VISX image file
 ```
-
 3. What is key 3?
 
 `http://key=killshot`
