@@ -1,6 +1,5 @@
 # CC: Radare2
 
-
 An in-depth crash course on Radare2
 
 [CC: Radare2](https://tryhackme.com/room/ccradare2)
